@@ -26,5 +26,5 @@ This library is using App Groups as a mechanism to pass data between your extens
 
   s.source_files = 'BBPortal/Classes/**/*'
 
-  s.dependency 'DAFileMonitor', :git => 'https://github.com/karelbilek/DAFileMonitor.git'
+  s.dependency 'DAFileMonitor'
 end
