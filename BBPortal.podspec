@@ -22,6 +22,7 @@ This library is using App Groups as a mechanism to pass data between your extens
   s.social_media_url = 'https://twitter.com/dagostin'
 
   s.ios.deployment_target = '8.0'
+  s.macos.deployment_target = '10.14'
 
   s.source_files = 'BBPortal/Classes/**/*'
 
